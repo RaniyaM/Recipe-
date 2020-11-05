@@ -70,7 +70,7 @@ Optional:
 * Settings -> Toggle settings
 
 ## Wireframes
-
+https://github.com/RaniyaM/Recipe-/blob/main/IMG_3989.HEIC.pdf
 
 
 ## Schema 
