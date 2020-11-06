@@ -113,3 +113,7 @@ https://github.com/RaniyaM/Recipe-/blob/main/IMG_3989.HEIC.pdf
    - Profile Screen
       - (Read/GET) Query logged in user object
       - (Update/PUT) Update user profile image
+      
+      The plane of what is going to happen next
+      
+      https://github.com/users/jabrian45/projects/1
