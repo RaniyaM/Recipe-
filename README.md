@@ -23,8 +23,8 @@ Tracks what RECIPE an individual wants to cook with any type of recipe.  Could b
 
 **Required Must-have Stories**
 
-* User logs in to access previous chats and preference settings
-* User picks what their favorite food of mexican, american or etc (Think pinteterst interface)
+[x] User logs in to access previous chats and preference settings
+[x] User picks what their favorite food of mexican, american or etc (Think pinteterst interface)
 * Matches have a chat window to get to know each other, with the ability to skip recipe if nasty (Tinder Style).
 * Profile pages for each user
 * Settings (Accesibility, Notification, General, etc.)
