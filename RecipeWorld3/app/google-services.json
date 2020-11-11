@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "48761972660",
+    "firebase_url": "https://recipeworld-fa9fc.firebaseio.com",
+    "project_id": "recipeworld-fa9fc",
+    "storage_bucket": "recipeworld-fa9fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48761972660:android:55fe24963be074389b74e1",
+        "android_client_info": {
+          "package_name": "com.example.recipeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48761972660-0mkjmgr8gr9e91pjgtkrk69e3odenk1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC151qtMsHK8uUaLdZEzLWISCskdEyN9IU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48761972660-0mkjmgr8gr9e91pjgtkrk69e3odenk1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48761972660:android:6a09b701851500689b74e1",
+        "android_client_info": {
+          "package_name": "com.example.recipeworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48761972660-0mkjmgr8gr9e91pjgtkrk69e3odenk1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC151qtMsHK8uUaLdZEzLWISCskdEyN9IU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48761972660-0mkjmgr8gr9e91pjgtkrk69e3odenk1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
