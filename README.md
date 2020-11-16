@@ -69,7 +69,7 @@ Optional:
 * Settings -> Toggle settings
 
 ## Wireframes
-<img src="IMG_3986.HEIC" width=800><br>
+<img src="IMG_3986.HEIC.pdf" width=800><br>
 
 
 ## Schema 
