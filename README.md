@@ -23,29 +23,26 @@ Tracks what RECIPE an individual wants to cook with any type of recipe.  Could b
 
 **Required Must-have Stories**
 
-[x] User logs in to access previous chats and preference settings
-[x] User picks what their favorite food of mexican, american or etc (Think pinteterst interface)
-* Matches have a chat window to get to know each other, with the ability to skip recipe if nasty (Tinder Style).
-* Profile pages for each user
+[x] User access home screen
+[x] User can search for specific recipes
+[x] User can choose a specific category
+[x] User can click on the category they liked to get a brief description
+* User can see related meals based off of ingrediants
+*User can save favorites by liking them
 * Settings (Accesibility, Notification, General, etc.)
 
 **Optional Nice-to-have Stories**
 
-* Log of past recipe/people with food covers
+* Specific ingrediants can be shown
 * Page of most cook recipe (i.e. recipes that most users are connecting through)
 * Profile Add-On: Top Recipe choices, etc.
-* Optional Shuffle Button (i.e. random encounter/random song)
-* Listening/Encounter Queue
+* The user can creat a profile
+* User can upload recipes from their profile
 
 ### 2. Screen Archetypes
 
-* Login 
-* Register - User signs up or logs into their account
-   * Upon Download/Reopening of the application, the user is prompted to log in to gain access to their profile information to be properly matched with another person. 
-   * ...
-
-* Profile Screen 
-   * Allows user to upload a photo and fill in information that is interesting to them and others
+* Recipe Screen 
+   * Allows user to search and choose what recipe they are interested in
 * Recipe Selection Screen.
    * Allows user to be able to choose their desired recipe, artist, genre of preference and begin listening and interacting with others.
 * Settings Screen
@@ -64,9 +61,11 @@ Optional:
 * Discover (Top Choices)
 
 **Flow Navigation** (Screen to Screen)
-* Forced Log-in -> Account creation if no log in is available
-* Music Selection (Or Queue if Optional) -> Jumps to Chat
-* Profile -> Text field to be modified. 
+* Home screen -> Search
+  * search -> recipes that come up based on search
+* Recipe Selection -> Jumps to recipe
+* Home screen -> Category
+  category --> description and meals based off that catory
 * Settings -> Toggle settings
 
 ## Wireframes
@@ -110,9 +109,7 @@ https://github.com/RaniyaM/Recipe-/blob/main/IMG_3989.HEIC.pdf
       - (Delete) Delete existing comment
    - Create Post Screen
       - (Create/POST) Create a new post object
-   - Profile Screen
-      - (Read/GET) Query logged in user object
-      - (Update/PUT) Update user profile image
+ 
       
       The plane of what is going to happen next
       
