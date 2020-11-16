@@ -23,10 +23,10 @@ Tracks what RECIPE an individual wants to cook with any type of recipe.  Could b
 
 **Required Must-have Stories**
 
-[x] User access home screen
-[x] User can search for specific recipes
-[x] User can choose a specific category
-[x] User can click on the category they liked to get a brief description
+- [X] User access home screen
+- [X] User can search for specific recipes
+- [X] User can choose a specific category
+- [X] User can click on the category they liked to get a brief description
 * User can see related meals based off of ingrediants
 *User can save favorites by liking them
 * Settings (Accesibility, Notification, General, etc.)
@@ -110,7 +110,7 @@ https://github.com/RaniyaM/Recipe-/blob/main/IMG_3989.HEIC.pdf
    - Create Post Screen
       - (Create/POST) Create a new post object
  
-      
-      The plane of what is going to happen next
-      
-      https://github.com/users/jabrian45/projects/1
+   
+### App Gifs
+
+
