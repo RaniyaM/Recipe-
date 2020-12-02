@@ -27,9 +27,9 @@ Tracks what RECIPE an individual wants to cook with any type of recipe.  Could b
 - [X] User can search for specific recipes
 - [X] User can choose a specific category
 - [X] User can click on the category they liked to get a brief description
-* User can see related meals based off of ingrediants
-* User can save favorites by liking them
-* Settings (Accesibility, Notification, General, etc.)
+- [X] can see related meals based off of ingrediants
+- [X] can save favorites by liking them
+
 
 **Optional Nice-to-have Stories**
 
